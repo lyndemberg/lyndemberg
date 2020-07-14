@@ -1,5 +1,3 @@
-[![Twitter Badge](https://img.shields.io/badge/-@aguirresabino-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aguirresabino)](https://twitter.com/Lyndembergg) [![Linkedin Badge](https://img.shields.io/badge/-aguirresabino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguirresabino/)](https://www.linkedin.com/in/lyndemberg-batista-928522129/)
-
 ## Hi 👋, 
 I'm Lyndemberg Batista, I'm a Systems Enginner 💻.
 
