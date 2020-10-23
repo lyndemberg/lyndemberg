@@ -1,8 +1,7 @@
 ## Hi 👋, 
-I'm Lyndemberg Batista, I'm a Systems Enginner 💻.
+I'm Lyndemberg Batista, I'm a Software Engineer 💻.
 
 - 🔭 I’m currently working on Indra Company
-- 🌱 I’m currently learning how to develop scalable applications and services that can offer continuous delivery to users.
 
 
 ## Programming language, frameworks and tools
