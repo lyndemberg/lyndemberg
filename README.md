@@ -1,7 +1,7 @@
 ## Hi 👋, 
-I'm Lyndemberg Batista, I'm a Software Engineer 💻.
+I'm Lyndemberg Batista, I'm a Systems Analyst 💻.
 
-- 🔭 I’m currently working on Indra Company
+- 🔭 I’m currently working on Invillia
 
 
 ## Programming language, frameworks and tools
